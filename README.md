@@ -26,7 +26,7 @@ Repositori ini bertujuan membantu pengguna MiSREd IoT dalam memahami integrasi d
 - **Library Arduino** (instal via Library Manager atau manual):
   - `WiFi.h`
   - `ArduinoJson.h`
-  - `AsyncMqttClient.h`
+  - `AsyncMqttClient.h` atau download di sini *https://github.com/marvinroger/async-mqtt-client/*
   - `NTPClient.h`
   - `CustomJWT.h` 
 
