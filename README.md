@@ -28,7 +28,7 @@ Repositori ini bertujuan membantu pengguna MiSREd IoT dalam memahami integrasi d
   - `ArduinoJson.h`
   - `AsyncMqttClient.h`
   - `NTPClient.h`
-  - `CustomJWT.h` *(dibuat khusus, bisa Anda lampirkan nanti jika tidak tersedia di manager)*
+  - `CustomJWT.h` 
 
 ---
 
