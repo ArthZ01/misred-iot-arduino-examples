@@ -1,6 +1,8 @@
 # MiSREd IoT Arduino Examples
 
-Contoh penggunaan Arduino ESP32 untuk mengirim data sensor ke platform **MiSREd IoT**, menggunakan tiga jenis protokol:
+[![Visit MiSREd IoT](https://img.shields.io/badge/MiSREd%20IoT-Visit%20Platform-blue?logo=internet-explorer)](https://misred-iot.com)
+
+Contoh penggunaan Arduino ESP32 untuk mengirim data sensor ke platform **[MiSREd IoT](https://misred-iot.com)**, menggunakan tiga jenis protokol:
 
 - 🔗 HTTP
 - 🔒 HTTPS
@@ -37,3 +39,15 @@ Repositori ini bertujuan membantu pengguna MiSREd IoT dalam memahami integrasi d
 1. Clone repositori ini:
    ```bash
    git clone https://github.com/username/misred-iot-arduino-examples.git
+
+---
+
+## 🌐 Tentang MiSREd IoT
+
+MiSREd IoT adalah platform monitoring IoT berbasis web yang memungkinkan pengguna memantau data dari berbagai perangkat secara real-time. Platform ini mendukung komunikasi melalui HTTP/HTTPS/MQTT dan menggunakan JWT untuk autentikasi data.
+
+---
+
+## 🧩 Kontribusi & Masukan
+
+Silakan ajukan Issue untuk melaporkan masalah atau meminta fitur tambahan. Kontribusi juga sangat diterima!
